@@ -1,0 +1,22 @@
+{
+    "access_point": {
+        "name": "Axiom",
+        "password": "password"
+    },
+    "garden": [
+        {
+            "current": true,
+            "plant_name": "Draco",
+            "plant_type": "garlic",
+            "light_cycle": [12,12],
+            "growth_period": 9
+        },
+        {
+            "current": false,
+            "plant_name": "Harry",
+            "plant_type": "scotch bonnet",
+            "light_cycle": [18,12],
+            "growth_period": 12
+        }
+    ]
+}
